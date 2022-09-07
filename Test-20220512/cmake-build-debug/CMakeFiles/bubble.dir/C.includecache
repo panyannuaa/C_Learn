@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yapan/CLionProjects/Test-20220512/bubble.c
+bubble.h
+/home/yapan/CLionProjects/Test-20220512/bubble.h
+
+/home/yapan/CLionProjects/Test-20220512/bubble.h
+

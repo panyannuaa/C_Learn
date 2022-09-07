@@ -1,0 +1,6 @@
+/home/yapan/CLionProjects/Test-20220512/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yapan/CLionProjects/Test-20220512/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yapan/CLionProjects/Test-20220512/cmake-build-debug/CMakeFiles/static_main.dir
+/home/yapan/CLionProjects/Test-20220512/cmake-build-debug/CMakeFiles/dynamic_main.dir
+/home/yapan/CLionProjects/Test-20220512/cmake-build-debug/CMakeFiles/bubble.dir
+/home/yapan/CLionProjects/Test-20220512/cmake-build-debug/CMakeFiles/sort_bubble.dir

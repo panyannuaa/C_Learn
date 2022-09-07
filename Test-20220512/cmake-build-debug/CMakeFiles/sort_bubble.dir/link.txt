@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libsort_bubble.so -o libsort_bubble.so CMakeFiles/sort_bubble.dir/bubble.c.o 

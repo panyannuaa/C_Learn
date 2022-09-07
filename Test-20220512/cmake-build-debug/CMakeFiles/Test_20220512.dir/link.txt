@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Test_20220512.dir/main.c.o  -o Test_20220512 

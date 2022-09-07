@@ -1,0 +1,3 @@
+/home/yapan/CLionProjects/sort_func/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yapan/CLionProjects/sort_func/cmake-build-debug/CMakeFiles/sort_func.dir
+/home/yapan/CLionProjects/sort_func/cmake-build-debug/CMakeFiles/edit_cache.dir

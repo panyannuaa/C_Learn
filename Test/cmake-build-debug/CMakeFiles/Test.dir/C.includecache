@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yapan/CLionProjects/Test/main.c
+stdio.h
+-
+sort_func.h
+/home/yapan/CLionProjects/Test/sort_func.h
+unistd.h
+/home/yapan/CLionProjects/Test/unistd.h
+
+/home/yapan/CLionProjects/Test/sort_func.h
+

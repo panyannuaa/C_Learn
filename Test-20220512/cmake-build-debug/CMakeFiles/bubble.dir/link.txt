@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbubble.a  CMakeFiles/bubble.dir/bubble.c.o
+/usr/bin/ranlib libbubble.a
