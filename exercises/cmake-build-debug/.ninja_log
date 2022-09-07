@@ -1,0 +1,4 @@
+# ninja log v5
+1	47	1649163359664722338	CMakeFiles/c_test.dir/link_list.c.o	9708d96c1b14109c
+0	47	1649163359660722246	CMakeFiles/c_test.dir/main.c.o	8b5fa890d648f3d5
+47	68	1649163359684722795	c_test	c54198bdff895b4c

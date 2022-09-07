@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yapan/CLionProjects/c-learn/sort_bubble.c
+sort_bubble.h
+/home/yapan/CLionProjects/c-learn/sort_bubble.h
+
+/home/yapan/CLionProjects/c-learn/sort_bubble.h
+
